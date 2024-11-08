@@ -17,7 +17,7 @@ This is my post-grad learning log to build strong software engineering and machi
 
 ## Core Skills
 
-### Maths
+### Math
 	
 |Resource|Progress|
 |---|---|
